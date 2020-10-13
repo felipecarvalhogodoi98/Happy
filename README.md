@@ -17,14 +17,14 @@
 
 ---
 
-<h2 align="center">Previews 🖥️📱</h2>
+<h2 align="center">Previews</h2>
 
    <p align="center">
       <img src="https://user-images.githubusercontent.com/59374587/95769033-9a163200-0c8d-11eb-8f43-2930a859f858.png" width="100%" alt="Happy Demo"/>
    </p>
 
 
-<h2 align="center">Layout 🎨</h2>
+<h2 align="center">Layout</h2>
 
    <p align="center">
       O Layout foi desenvolvido por <a href="https://instagram.com/tiagoluchtenberg">Tiago Luchtenberg</a>, e você pode acessá-lo no Figma, basta clicar <a href="https://www.figma.com/file/XYb2tha1gU5M8vTwTUmjNx/Happy-Web-(Copy)?node-id=0%3A1">aqui</a>!
@@ -32,22 +32,13 @@
 
 ---
 
-<h2 align="center">Funcionalidades 🛠️</h2>
+<h2 align="center">Funcionalidades</h2>
 
    >A desenvolver
 
 ---
 
-<h2 align="center">Desafios e aprendizados ao longo do caminho 🤯</h2>
-
-   <p>
-      A semana Next Level Week, como muitos sabem, não é de brincadeira, ela requer prática, intensidade e principalmente, muito foco!<br> 
-      Felizmente, estou conseguindo ir bem na mesma, e quero fazer uma semana ainda melhor que a passada, pois afinal, como o mesmo nome diz, temos que sempre estar buscando um próximo nível e ser melhor a cada dia!
-   </p>
-
----
-
-<h2 align="center">Como usar 🤔</h2>
+<h2 align="center">Como usar</h2>
 
    ```
    - Clone o repositório:
@@ -77,7 +68,7 @@
 
    ---
 
-   >Este projeto foi desenvolvido por **[@Felipe Godoi](https://www.linkedin.com/in/felipe-carvalho-godoi-164a05189/)**, com o instrutor **[@MaykBrito](https://linkedin.com/in/maykbrito)**, durante a **[Next Level Week](https://rocketseat.com.br/)** da **[Rocketseat](https://www.linkedin.com/school/rocketseat/about/)**. <br>
+   >Este projeto foi desenvolvido por **[@Felipe Carvalho Godoi](https://www.linkedin.com/in/felipe-carvalho-godoi-164a05189/)**, com o instrutor **[@MaykBrito](https://linkedin.com/in/maykbrito)**, durante a **[Next Level Week](https://rocketseat.com.br/)** da **[Rocketseat](https://www.linkedin.com/school/rocketseat/about/)**. <br>
 
 ---
 
