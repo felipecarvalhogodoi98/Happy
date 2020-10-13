@@ -1,10 +1,7 @@
 *{
     margin: 0;
     padding: 0;
-}
-
-:root{
-    font-size: 62.5%;
+    box-sizing: border-box;
 }
 
 body{
@@ -12,11 +9,12 @@ body{
     color: white;
 }
 
+:root{
+    font-size: 62.5%;
+}
+
 body, input, button, textarea{
-    font-size: 1.8em;
-    line-height: 1;
-    font-weight: 400;
-    font-family: 'Nunito', sans-serif;
+    font: 400 1.8rem/1 "Nunito", sans-serif;
 }
 
 
