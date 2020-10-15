@@ -50,7 +50,19 @@
 
 ---
 
-<h2 align="center">Como contribuir 💪</h2>
+<h2 align="center">O que aprendi?</h2>
+   
+   ```
+   -Front-end e Back-end
+   -HTML
+   -CSS
+   -JavaScript
+   ```
+
+
+   ---
+
+<h2 align="center">Como contribuir</h2>
 
    ```
    - Fork o projeto
