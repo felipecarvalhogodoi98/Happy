@@ -1,17 +1,17 @@
-<h1 align="center">Next Level Week, terceira edição, projeto "Happy".</h1>
+<h1 align="center">Next Level Week, third edition, project "Happy".</h1>
 
 ---
 
-<h2 align="center">Sobre</h2>
+<h2 align="center">About</h2>
    
    <p align="center">
-      O projeto Happy, desenvolvido na semana Next Level Week, da <a href="https://rocketseat.com.br/">Rocketseat</a>, durante o dia 12 ao 18 do mês de Outubro.<br>
-      O projeto tem como inspiração as Instituições de Caridade, que realizam um trabalho muito importante no mundo. E tem como intenção incentivar a visitação de crianças em orfanatos, que é uma coisa linda ver a felicidade de crianças.<br>
+      The Happy project, develop in the week Next Level Week, of <a href="https://rocketseat.com.br/">Rocketseat</a>, daytime 12 to 18 of october.<br>
+      The project i inspired by Charity, who do a very important job in the world. And its intention is to encourage children to visit orphanages, which is a beautiful thing to see the happiness of children.<br>
    </p>
 
    - ✅ "Acelerando sua evolução" 
-   - 🔄 "Olhando as oportunidades" 
-   - 🔄 "A escolha da Stack" 
+   - ✅ "Olhando as oportunidades" 
+   - ✅ "A escolha da Stack" 
    - 🔄 "Até dois anos em 2 meses" 
    - 🔄 "A milha extra"
 
@@ -27,30 +27,33 @@
 <h2 align="center">Layout</h2>
 
    <p align="center">
-      O Layout foi desenvolvido por <a href="https://instagram.com/tiagoluchtenberg">Tiago Luchtenberg</a>, e você pode acessá-lo no Figma, basta clicar <a href="https://www.figma.com/file/XYb2tha1gU5M8vTwTUmjNx/Happy-Web-(Copy)?node-id=0%3A1">aqui</a>!
+     
+The Layout was developed by <a href="https://instagram.com/tiagoluchtenberg">Tiago Luchtenberg</a>, 
+and you can access it on Figma, just click <a href="https://www.figma.com/file/XYb2tha1gU5M8vTwTUmjNx/Happy-Web-(Copy)?node-id=0%3A1">here</a>!
    </p>
 
 ---
 
-<h2 align="center">Funcionalidades</h2>
+<h2 align="center">
+Functionalities</h2>
 
-   >A desenvolver
+   >In development
 
 ---
 
-<h2 align="center">Como usar</h2>
+<h2 align="center">how to use?</h2>
 
    ```
-   - Clone o repositório:
+   - Clone the repository:
    $ git clone https://github.com/felipecarvalhogodoi98/Happy Happy
 
-   - Entre no diretório:
+   - Enter the directory:
    $ cd Happy
    ```
 
 ---
 
-<h2 align="center">O que aprendi?</h2>
+<h2 align="center">what i learned?</h2>
    
    ```
    -Front-end e Back-end
@@ -62,25 +65,25 @@
 
    ---
 
-<h2 align="center">Como contribuir</h2>
+<h2 align="center">how to contribute</h2>
 
    ```
    - Fork o projeto
 
-   - Crie uma nova branch com suas alterações:
+   - Create a new branch with your changes:
    $ git checkout -b my-feature
 
-   - Salve suas alterações e crie uma mensagem de confirmação dizendo o que você fez:
+   - Save your changes and create a confirmation message saying what you did:
    $ git commit -m "feature: My new feature"
 
-   - Envie suas alterações:
+   - Submit your changes:
    $ git push origin my-feature
    ```
 
 
    ---
 
-   >Este projeto foi desenvolvido por **[@Felipe Carvalho Godoi](https://www.linkedin.com/in/felipe-carvalho-godoi-164a05189/)**, com o instrutor **[@MaykBrito](https://linkedin.com/in/maykbrito)**, durante a **[Next Level Week](https://rocketseat.com.br/)** da **[Rocketseat](https://www.linkedin.com/school/rocketseat/about/)**. <br>
+   >This project was developed by **[@Felipe Carvalho Godoi](https://www.linkedin.com/in/felipe-carvalho-godoi-164a05189/)**, com o instrutor **[@MaykBrito](https://linkedin.com/in/maykbrito)**, durante a **[Next Level Week](https://rocketseat.com.br/)** of **[Rocketseat](https://www.linkedin.com/school/rocketseat/about/)**. <br>
 
 ---
 
