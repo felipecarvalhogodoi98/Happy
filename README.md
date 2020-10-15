@@ -83,7 +83,7 @@ Functionalities</h2>
 
    ---
 
-   >This project was developed by **[@Felipe Carvalho Godoi](https://www.linkedin.com/in/felipe-carvalho-godoi-164a05189/)**, com o instrutor **[@MaykBrito](https://linkedin.com/in/maykbrito)**, durante a **[Next Level Week](https://rocketseat.com.br/)** of **[Rocketseat](https://www.linkedin.com/school/rocketseat/about/)**. <br>
+   >This project was developed by **[@Felipe Carvalho Godoi](https://www.linkedin.com/in/felipe-carvalho-godoi-164a05189/)**, with the instructor **[@MaykBrito](https://linkedin.com/in/maykbrito)**, during  **[Next Level Week](https://rocketseat.com.br/)** of **[Rocketseat](https://www.linkedin.com/school/rocketseat/about/)**. <br>
 
 ---
 
