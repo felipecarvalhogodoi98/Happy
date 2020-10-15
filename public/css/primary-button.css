@@ -1,0 +1,59 @@
+.primary-button{
+
+    width: 200%;
+    height: 6.4rem;
+
+    margin-top: 6.4rem;
+
+    border: none;
+    border-radius: 2rem;
+
+    cursor: pointer;
+
+    background: #3CDC8C;
+    color: white;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    transition: background 200ms;
+
+}
+
+.primary-button:hover{
+    background: #33cf82;
+}
+
+.primary-button img{
+    margin: 1.6rem;
+}
+
+.button-select{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+
+.button-select button{
+    height: 6.4rem;
+    background: #D3E2E5;
+    border: 1px solid #517880;
+    color: #5c8599;
+    cursor: pointer;
+    outline: none;
+}
+
+
+.button-select button:first-child{
+    border-radius: 2rem 0 0 2rem;
+}
+
+.button-select button:last-child{
+    border-radius: 0 2rem 2rem 0;
+}
+
+.button-select button.active{
+    background: #edfff6;
+    border: 2px solid #a1e9c5;
+    color: #37C77F;
+}
