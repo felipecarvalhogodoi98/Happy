@@ -57,9 +57,10 @@
    -HTML
    -CSS
    -JavaScript
+   ```
    -<a href="https://nodejs.org/en/">Node.js</a>
    -<a href="https://gitforwindows.org/">Git Bash</a>
-   ```
+
 
 
    ---
