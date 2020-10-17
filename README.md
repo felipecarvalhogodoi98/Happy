@@ -12,8 +12,8 @@
    - ✅ "Acelerando sua evolução" 
    - ✅ "Olhando as oportunidades" 
    - ✅ "A escolha da Stack" 
-   - 🔄 "Até dois anos em 2 meses" 
-   - 🔄 "A milha extra"
+   - ✅ "Até dois anos em 2 meses" 
+   - ✅ "A milha extra"
 
 ---
 
@@ -37,7 +37,15 @@ and you can access it on Figma, just click <a href="https://www.figma.com/file/X
 <h2 align="center">
 Functionalities</h2>
 
-   >In development
+   <p>-Bring happiness to the world!</p>
+   <p>-Encourage people to visit orphanages!</p>
+   <p>-Create and register orphanates</p>
+   <p> ----- You can mark the days for visiting orphanages </p>
+   <p> ---- Accessing opening hours and days </p>
+   <p> ---- Schedule visits </p>
+   <p> ----- Contact via Whatsapp </p>
+   <p> ---- Directions via Google Maps </p>
+   <p> Navigate different tabs and pages </p>
 
 ---
 
@@ -49,18 +57,29 @@ Functionalities</h2>
 
    - Enter the directory:
    $ cd Happy
+   
+   - Install dependecies:
+   $ npm install
+
+   - Execute the aplication:
+   $ npm start
+
+   - Open in your browser:
+   http://localhost:5500/
    ```
 
 ---
 
 <h2 align="center">what i learned?</h2>
    
-   ```
-   -Front-end e Back-end
-   -HTML
-   -CSS
-   -JavaScript
-   ```
+  <p><a href="https://www.notion.so/Back-end-ff655163e56b4927ae7a7a4e08049e64">Back end</a></p>
+   <p><a href="https://www.notion.so/Front-end-010548f316d04d65a0d8b72865874ed1">Front end</a></p>   
+   <p><a href="https://www.sqlite.org/index.html">SQLite</a></p>
+   <p><a href="https://developer.mozilla.org/en-US/docs/Web/javascript">JavaScript</a></p>
+   <p><a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS">CSS</a></p>
+   <p><a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML">HTML</a></p>
+   -<p><a href="https://nodejs.org/en/">Node.js</a></p>
+   -<p><a href="https://gitforwindows.org/">Git Bash</a></p>
 
 
    ---
