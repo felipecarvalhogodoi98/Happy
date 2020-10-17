@@ -10,10 +10,10 @@
    </p>
 
    - ✅ "Acelerando sua evolução" 
-   - 🔄 "Olhando as oportunidades" 
-   - 🔄 "A escolha da Stack" 
-   - 🔄 "Até dois anos em 2 meses" 
-   - 🔄 "A milha extra"
+   - ✅ "Olhando as oportunidades" 
+   - ✅ "A escolha da Stack" 
+   - ✅ "Até dois anos em 2 meses" 
+   - ✅ "A milha extra"
 
 ---
 
@@ -34,7 +34,15 @@
 
 <h2 align="center">Funcionalidades</h2>
 
-   >A desenvolver
+   <p>-Levar felicidade para o mundo!</p>
+   <p>-Incentivar as pessoas a visitar orfanatos!</p>
+   <p>-Criar e cadastrar orfanatos;</p>
+   <p>-----Pode marcar os dias para a visitação de orfanatos</p>
+   <p>----Acessando horários e dias de funcionamento </p>
+   <p>----Agendar visitas</p>
+   <p>-----Contato via Whatsapp</p>
+   <p>----Rotas via Google Maps</p>
+   <p>Navegar em diferentes guias e páginas</p>
 
 ---
 
@@ -46,6 +54,15 @@
 
    - Entre no diretório:
    $ cd Happy
+   
+   - Para instalar as dependências:
+   $ npm install
+
+   - Execute a aplicação:
+   $ npm start
+
+   - Abra no seu navegador em:
+   http://localhost:5500/
    ```
 
 ---
@@ -58,8 +75,14 @@
    -CSS
    -JavaScript
    ```
-   -<a href="https://nodejs.org/en/">Node.js</a>
-   -<a href="https://gitforwindows.org/">Git Bash</a>
+   <p><a href="https://www.notion.so/Back-end-ff655163e56b4927ae7a7a4e08049e64">Back end</a></p>
+   <p><a href="https://www.notion.so/Front-end-010548f316d04d65a0d8b72865874ed1">Front end</a></p>   
+   <p><a href="https://www.sqlite.org/index.html">SQLite</a></p>
+   <p><a href="https://developer.mozilla.org/en-US/docs/Web/javascript">JavaScript</a></p>
+   <p><a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS">CSS</a></p>
+   <p><a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML">HTML</a></p>
+   -<p><a href="https://nodejs.org/en/">Node.js</a></p>
+   -<p><a href="https://gitforwindows.org/">Git Bash</a></p>
 
 
 
