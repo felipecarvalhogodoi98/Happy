@@ -7,8 +7,11 @@ const options = {
 
 }
 
+//get spam lat lng
+const spam = document.querySelector("spam[data-lat]")
+
 //map
-const map = L.map('mapid', options).setView([-21.1298000,-46.6259652], 14)
+const map = L.map('mapid', options).setView([spam.dataset.lat,spam.dataset.lng], 14)
 
 //create and add tileLayer
 L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png').addTo(map)
@@ -24,7 +27,7 @@ const icon = L.icon({
 //create popup overlay
 
 //create and add marker
-L.marker([-21.1298504,-46.6259652], {icon} )
+L.marker([spam.dataset.lat,spam.dataset.lng], {icon} )
 .addTo(map) 
 
 

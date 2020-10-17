@@ -39,7 +39,7 @@
 
         <main class="animate-appear with-sidebar">
             
-            <form action="">
+            <form action="save-orphanage" method="post" onSubmit="validate(event)">
                 <fieldset>
                     <legend>Dados</legend>
                     <div class="map-container">
@@ -70,7 +70,7 @@
 
                         <div id="images" class="images">
                             <div class="new-upload">
-                                <input name="images" placeholder="Cole o link da foto aqui" required>
+                                <input name="images" placeholder="Cole o link da foto aqui" type="url" required>
                                 <spam onclick="deletePhotoField(event)">
                                     <img src="/images/removeFile.svg" alt="Remover foto">
                                 </spam>

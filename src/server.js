@@ -8,6 +8,8 @@ const server = express()
 
 
     server
+    //use body of request
+    .use(express.urlencoded({extended: true}))
     //using statistical files
     .use(express.static('public'))
     //template engine config
@@ -18,6 +20,7 @@ const server = express()
     .get('/orphanage', pages.orphanage)
     .get('/orphanages', pages.orphanages)
     .get('/create-orphanage', pages.createOrphanage)
+    .post('/save-orphanage', pages.saveOrphanage)
 
 //connect server
 server.listen(5500)
