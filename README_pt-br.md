@@ -69,12 +69,6 @@
 
 <h2 align="center">O que aprendi?</h2>
    
-   ```
-   -Front-end e Back-end
-   -HTML
-   -CSS
-   -JavaScript
-   ```
    <p><a href="https://www.notion.so/Back-end-ff655163e56b4927ae7a7a4e08049e64">Back end</a></p>
    <p><a href="https://www.notion.so/Front-end-010548f316d04d65a0d8b72865874ed1">Front end</a></p>   
    <p><a href="https://www.sqlite.org/index.html">SQLite</a></p>
