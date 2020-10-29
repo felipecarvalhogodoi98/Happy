@@ -109,6 +109,6 @@ Functionalities</h2>
 
    <div align="center">
    
-   <p>Linkedin - (https://www.linkedin.com/in/felipe-carvalho-godoi-164a05189)</p>
+   <p>**Linkedin - (https://www.linkedin.com/in/felipe-carvalho-godoi-164a05189)**</p>
 
 </div>
