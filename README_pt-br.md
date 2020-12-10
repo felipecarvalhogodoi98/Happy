@@ -104,9 +104,3 @@
    >Este projeto foi desenvolvido por **[@Felipe Carvalho Godoi](https://www.linkedin.com/in/felipe-carvalho-godoi-164a05189/)**, com o instrutor **[@MaykBrito](https://linkedin.com/in/maykbrito)**, durante a **[Next Level Week](https://rocketseat.com.br/)** da **[Rocketseat](https://www.linkedin.com/school/rocketseat/about/)**. <br>
 
 ---
-
-   <div align="center">
-   
-   <p>Linkedin - (https://www.linkedin.com/in/felipe-carvalho-godoi-164a05189)</p>
-
-</div>
